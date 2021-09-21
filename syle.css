@@ -1,0 +1,45 @@
+*{
+font-family: 'Crimson Text', serif;
+}
+
+.name-plate {
+    display: inline-flex;
+    background-color: slategray;
+    justify-content: center;
+    width: 40%;
+    padding: 1rem;
+    font-size: 3rem;
+}
+.projects{
+    display:inline-flex;
+}
+#navbar {
+    display:inline-flex;
+    background-color: slategray;
+    width: 40%;
+    padding: 1rem;
+    font-size: 3rem;
+    float: right;
+    justify-content:space-evenly;
+}
+
+#navbar ul{
+    display:inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#about-me {
+    display:inline-flex;
+    float: left;
+    width: 70%;
+}
+#self-photo {
+    display: inline-flex;
+    float:right;
+    width:30%;
+
+}
+
+
+ 
